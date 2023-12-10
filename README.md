@@ -1,2 +1,3 @@
-# PVTFormer
-CT LIVER SEGMENTATION VIA PVT-BASED ENCODING AND REFINED DECODING
+# CT Liver Segmentation Via PVT-based Encoding and Refined Decoding
+
+
