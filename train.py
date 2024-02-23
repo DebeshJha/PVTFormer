@@ -14,7 +14,7 @@ from torch.utils.data import Dataset, DataLoader
 from torchvision import transforms
 from sklearn.model_selection import train_test_split
 from utils import seeding, create_dir, print_and_save, shuffling, epoch_time, calculate_metrics
-from model import TransRUPNet
+from model import PVTFormer
 from metrics import DiceLoss, DiceBCELoss
 
 def load_data(path):
