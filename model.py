@@ -68,7 +68,7 @@ class UpBlock(nn.Module):
         x = self.r1(x)
         return x
 
-class TransRUPNet(nn.Module):
+class PVTFormer(nn.Module):
     def __init__(self):
         super().__init__()
 
