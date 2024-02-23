@@ -8,7 +8,7 @@ import cv2
 from tqdm import tqdm
 import imageio
 import torch
-from model import TransRUPNet
+from model import PVTFormer
 from utils import create_dir, seeding
 from utils import calculate_metrics
 from train import load_data
@@ -99,7 +99,7 @@ if __name__ == "__main__":
 
     """ Load the checkpoint """
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    model = TransRUPNet()
+    model = PVTFormer()
     model = model.to(device)
     checkpoint_path = "files/checkpoint.pth"
     model.load_state_dict(torch.load(checkpoint_path, map_location=device))
