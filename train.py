@@ -263,7 +263,7 @@ if __name__ == "__main__":
 
     """ Model """
     device = torch.device('cuda')
-    model = TransRUPNet()
+    model = PVTFormer()
     model = model.to(device)
     # model.load_state_dict(torch.load(checkpoint_path, map_location=device))
 
