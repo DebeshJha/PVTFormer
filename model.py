@@ -123,6 +123,6 @@ class PVTFormer(nn.Module):
 
 if __name__ == "__main__":
     x = torch.randn((4, 3, 256, 256))
-    model = TransRUPNet()
+    model = PVTFormer()
     y = model(x)
     print(y.shape)
