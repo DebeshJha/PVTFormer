@@ -15,16 +15,11 @@ PVTFormer is a groundbreaking encoder-decoder framework designed for precise liv
 
 
 
-## TransRupNet Architecture 
+## PVTFormer Architecture 
 <p align="center">
-<img src="Img/PVTFormer1.png">
+<img src="Img/PVTFormer.jpg">
 </p>
 
-## Up Block and Decoder
-
-<p align="center">
-<img src="Img/PVTFormer_block.jpg">
-</p>
 
 ## Architecture Advantages:
 - Improved accuracy for medical image segmentation.
