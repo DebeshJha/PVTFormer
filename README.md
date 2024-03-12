@@ -47,13 +47,20 @@ LiTS dataset
 <img src="Img/PVTformer_results.png">
 </p>
 
+<p align="center">
+<img src="Img/results-liver.jpg">
+</p>
+
+
 ## Citation
 Please cite our paper if you find the work useful: 
 <pre>
-@INPROCEEDINGS{8959021,
-  author={D. {Jha},  K. {Biswas}, N. {Tomar}, U. {Bagci}},
-  title={CT Liver Segmentation Via PVT-based Encoding and Refined Decoding}, 
-  year={2023}
+@article{jha2024ct,
+  title={CT Liver Segmentation via PVT-based Encoding and Refined Decoding},
+  author={Jha, Debesh and Tomar, Nikhil Kumar and Biswas, Koushik and Durak, Gorkem and Medetalibeyoglu, Alpay and Antalek, Matthew and Velichko, Yury and Ladner, Daniela and Borhani, Amir and Bagci, Ulas},
+  journal={arXiv preprint arXiv:2401.09630},
+  year={2024}
+}
 </pre>
 
 ## Contact
