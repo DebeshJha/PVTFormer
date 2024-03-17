@@ -1,7 +1,7 @@
 # CT Liver Segmentation Via PVT-based Encoding and Refined Decoding
 
 ## Overview
-PVTFormer is a groundbreaking encoder-decoder framework designed for precise liver segmentation from CT scans. At its core, it utilizes the Pyramid Vision Transformer (PVT v2) as a pretrained encoder, enhancing the segmentation process with its unique ability to handle variable-resolution input images and produce multi-scale representations.
+PVTFormer is a novel encoder-decoder framework designed for precise liver segmentation from CT scans. At its core, it utilizes the Pyramid Vision Transformer (PVT v2) as a pretrained encoder, enhancing the segmentation process with its unique ability to handle variable-resolution input images and produce multi-scale representations.
 
 ## Key Features
 -**Innovative Encoder-Decoder Framework:** Incorporates PVT v2 for efficient and rich feature extraction.
