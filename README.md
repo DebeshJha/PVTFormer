@@ -55,10 +55,10 @@ LiTS dataset
 ## Citation
 Please cite our paper if you find the work useful: 
 <pre>
-@article{jha2024ct,
+@inproceedings{jha2024ct,
   title={CT Liver Segmentation via PVT-based Encoding and Refined Decoding},
   author={Jha, Debesh and Tomar, Nikhil Kumar and Biswas, Koushik and Durak, Gorkem and Medetalibeyoglu, Alpay and Antalek, Matthew and Velichko, Yury and Ladner, Daniela and Borhani, Amir and Bagci, Ulas},
-  journal={arXiv preprint arXiv:2401.09630},
+  bookarticle={Proceedings of the International Symposium on Biomedical Imaging (ISBI)},
   year={2024}
 }
 </pre>
