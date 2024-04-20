@@ -36,13 +36,15 @@ LiTS dataset
 
 
 ## Results
- **Qualitative results comparison of the SOTA methods** <br/>
+ ***Qualitative results comparison of the SOTA methods*** <br/>
 <p align="center">
 <img src="Img/liver-3.jpg">
 </p>
 
+
+***Quantitative results comparison of the SOTA methods*** <br/>
 <p align="center">
-<img src="Img/results_liver.png">
+<img src="Img/PVTformer_results.png">
 </p>
 
 
